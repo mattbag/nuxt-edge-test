@@ -4,6 +4,7 @@
   "description": "testing nuxt-edge",
   "author": "matt <mattbag00@gmail.com>",
   "private": true,
+  "main":"nuxt.config.js",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
